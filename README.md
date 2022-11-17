@@ -1,3 +1,4 @@
 # Probak
 
-Probatxo batzuk egiteko erabiliko dugu
+Lehenengo github.etik klonatu dugu repositorioa
+
